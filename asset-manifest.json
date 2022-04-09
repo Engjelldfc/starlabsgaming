@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/starlabsgaming/static/css/main.7013cb95.css",
+    "main.js": "/starlabsgaming/static/js/main.f415f100.js",
+    "static/media/blog03.png": "/starlabsgaming/static/media/blog03.adf376225772de7abe87.png",
+    "static/media/blog01.png": "/starlabsgaming/static/media/blog01.5ac31c3dc335c6c52060.png",
+    "static/media/logo.gif": "/starlabsgaming/static/media/logo.cb51d230b20cd07cbf88.gif",
+    "static/media/toppng.com-freeuse-champion-vector-league-legend-poster-league-of-legends-yasuo-1149x718.png": "/starlabsgaming/static/media/toppng.com-freeuse-champion-vector-league-legend-poster-league-of-legends-yasuo-1149x718.88399fe558ca8723a4f5.png",
+    "static/media/blog05.png": "/starlabsgaming/static/media/blog05.4ce2bb60dc3418a03188.png",
+    "static/media/blog02.png": "/starlabsgaming/static/media/blog02.8b82823fe159f8ca3331.png",
+    "static/media/blog04.png": "/starlabsgaming/static/media/blog04.9932c4fa1f6251ddacc5.png",
+    "static/media/people.png": "/starlabsgaming/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "index.html": "/starlabsgaming/index.html",
+    "main.7013cb95.css.map": "/starlabsgaming/static/css/main.7013cb95.css.map",
+    "main.f415f100.js.map": "/starlabsgaming/static/js/main.f415f100.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7013cb95.css",
+    "static/js/main.f415f100.js"
+  ]
+}
